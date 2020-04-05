@@ -1,0 +1,17 @@
+{
+  "name": "@ztwx/logger",
+  "version": "0.0.3",
+  "description": "frontback logger",
+  "main": "logger.js",
+  "author": "zhantewei",
+  "homepage":"https://github.com/zhantewei2/ztwx-logger",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies":{},
+  "keywords":[
+    "logger",
+    "log",
+    "loggerFactory",
+    "ztwx"
+  ]
+}
